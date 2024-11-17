@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+mlflow
+catboost
+scikit-learn==1.5.2
+pandas
+boto3
