@@ -3,25 +3,37 @@ Each project's folder contain is own README.md which details the content of the 
 Here is a list of all projects classified by their primary focus :
 
   Build & Manage a Data Infrastructure :
+  
     - Project Kayak
     
   Exploratory Data Analysis :
+  
     - Project Tinder
+    
     Big Data :
+    
       - Project Steam
       
   Machine Learning :
+  
     Supervised Machine Learning :
+    
       - Project Walmart Sales
+      
       - Project Conversion Rate Challenge
+      
     Unsupervised Machine Learning :
+    
       -  Project The North Face
       
   Deep Learning :
+  
     - Project AT&T
     
   Deployment :
+  
     - Project Getaround
     
   Final Project :
+  
     - Project A wheat yield predictor
