@@ -4,7 +4,9 @@ There also 4 folder :
  1. API_app
 
 This folder contains the components required to build and deploy an API on Heroku. API allows for user to get predictionsfrom the Machine Learning wich provided the best results for a price predictions, see API_usage.md for how to use the API.
+
 API link : https://getaround-api-app-82984add3f24.herokuapp.com/
+
 Files detail :
 
     Dockerfile: Instructions for building a Docker image to deploy the API.
@@ -21,7 +23,9 @@ This folder holds metadata and logging information for CatBoost model training. 
 3. mlflow-heroku-deployment
 
 This directory is set up for deploying the model and tracking experiments using MLflow, a tool for managing machine learning experiments. It is configured for Heroku deployment.
+
 MLFlow app link : https://getaround-app-cb43022eb5de.herokuapp.com/#/experiments/0?searchFilter=&orderByKey=attributes.start_time&orderByAsc=false&startTime=ALL&lifecycleFilter=Active&modelVersionFilter=All+Runs&datasetsFilter=W10%3D
+
 Files detail :
 
     catboost_info/: Holds information specific to the CatBoost model, similar to the main catboost_info folder.
@@ -37,7 +41,9 @@ Files detail :
 4. streamlit_app
 
 This folder contains the components required for the creation of a Streamlit dashboard that summurize conclusion mase from data analysis on get_around_delay_analysis.xlsx.
+
 Dashboard link : https://getaround-streamlit-dashboard-b538cd0ea51e.herokuapp.com/
+
 Files detail :
 
     app/: Contains the main Streamlit application code and modules.
