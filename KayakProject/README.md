@@ -1,0 +1,3 @@
+In the notebookk DataCollection.ipynb you'll find gathering of cities's location (latitude and longitude) from  https://nominatim.org/ API, data are then stored in city_information.csv.
+It also contains web scrapping of hotels's information coming from booking.com hotels's pages, datas are then in hotel_information.csv, in a AWS S3 Bucket and in a AWS RDS database (credentials have been removed from the code for obvious reasons).
+In the notebook deliverable, you'll find a map a weather score attributed to each of the cities, using https://openweathermap.org API datas, and another one for the top 20 hotels of top 5 cities with the best weather score. 
