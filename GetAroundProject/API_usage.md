@@ -13,5 +13,5 @@ Or use Python:
 
 Input should have the form (see exemple above):
 
-    "input" : "input": [["model", mileage	, engine_power, "fuel", "paint_color", "car_type", private_parking_available, has_gps, has_air_conditioning, automatic_car, has_getaround_connect, has_speed_regulator, winter_tires]]
+     "input": [["model", mileage	, engine_power, "fuel", "paint_color", "car_type", private_parking_available, has_gps, has_air_conditioning, automatic_car, has_getaround_connect, has_speed_regulator, winter_tires]]
     
